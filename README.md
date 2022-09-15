@@ -5,7 +5,6 @@ Fractal Space Modding Kit is a whole new way, to get into modding for Haze Games
  - Config Parser
  - Installing BepInEx
  - And quick launching whole game!
- - 
 # QUICK REMARKS!
  - It's in early preview
  - It's still using many things from [FractalModder](https://github.com/Angularity-Space/FractalModder), and will be remade
