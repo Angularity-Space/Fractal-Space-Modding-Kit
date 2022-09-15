@@ -10,6 +10,7 @@ Fractal Space Modding Kit is a whole new way, to get into modding for Haze Games
  - It's in early preview
  - It's still using many things from [FractalModder](https://github.com/Angularity-Space/FractalModder), and will be remade
  - Open-source will be on 2.5 probably
+ - Linux and AppleOS aren't supported
 
 ### Screenshots
 ![зображення](https://user-images.githubusercontent.com/72987745/190471197-037d1339-80f5-4f67-ab92-914f865366fe.png)
