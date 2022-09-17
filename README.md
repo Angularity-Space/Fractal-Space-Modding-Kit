@@ -1,6 +1,6 @@
 ### Fractal Space Modding Kit - open the black box of secrets behind the scenes
 Fractal Space Modding Kit is a whole new way, to get into modding for Haze Games game called Fractal Space. Eventually, this program is fork of [FractalModder](https://github.com/Angularity-Space/FractalModder), but with new design and features, such as:
- - Quick access to Asset Studio and UABE
+ - Quick access to Asset Studio, dnSpy and UABE
  - Download menu for mods
  - Config Parser
  - Installing BepInEx
