@@ -1,0 +1,20 @@
+{
+    "UnityExplorer": 
+    {
+        "url": "https://github.com/sinai-dev/UnityExplorer",
+        "il2cpp": "Yes",
+        "Mono": "Yes"
+    },
+    "Challenge Mod":
+    {
+        "url": "https://github.com/Angularity-Space/fractal-space-challenge-mode",
+        "il2cpp": "No",
+        "Mono": "Yes"
+    },
+    "Configuration Manager":
+    {
+        "url": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
+        "il2cpp": "No",
+        "Mono": "Yes"
+    }
+}
