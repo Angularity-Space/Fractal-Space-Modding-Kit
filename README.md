@@ -18,4 +18,4 @@ Fractal Space Modding Kit is a whole new way, to get into modding for Haze Games
 ![зображення](https://user-images.githubusercontent.com/72987745/190471363-eb228228-46ba-4625-835a-cc0627db31a2.png)
 
 
-This program uses third party tools, such as [Asset Studio](https://github.com/Perfare/AssetStudio/releases), [UABE](https://github.com/SeriousCache/UABE) and [UE](https://github.com/sinai-dev/UnityExplorer), third party modules for Python, such as [QDarkStyle](https://github.com/ColinDuquesnoy/QDarkStyleSheet) and [VDF](https://pypi.org/project/vdf/). Fractal Space is a game made by Haze Games, owned by them, and developed by them.
+This program uses third party tools, such as [Asset Studio](https://github.com/Perfare/AssetStudio/releases), [UABE](https://github.com/SeriousCache/UABE), [dnSpy](https://github.com/dnSpy/dnSpy) and [UE](https://github.com/sinai-dev/UnityExplorer), third party modules for Python, such as [QDarkStyle](https://github.com/ColinDuquesnoy/QDarkStyleSheet) and [VDF](https://pypi.org/project/vdf/). Fractal Space is a game made by Haze Games, owned by them, and developed by them.
